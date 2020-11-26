@@ -30,7 +30,7 @@ So now the question is when should we use deep learning for our tasks and how wi
 
 ![Demystifying Deep Learning and Artificial Intelligence – The New Stack](https://cdn.thenewstack.io/media/2020/05/6a5f470b-02.png)
 
-Machine learning has been around for long that is how google always knew how to sort the web pages and how to only show the most relevant pages on top. **Traditional machine learning ** still with many advancements it require a lot of human intervention and a lot more work needs to be done in making the normal machine learning algorithm to adapt to even similar looking tasks.
+Machine learning has been around for long that is how google always knew how to sort the web pages and how to only show the most relevant pages on top. ** Traditional machine learning ** still with many advancements it require a lot of human intervention and a lot more work needs to be done in making the normal machine learning algorithm to adapt to even similar looking tasks.
 
 ![We're (data) hungry: the importance of Big Data for the subsea industry -  Abyssal](https://abyssal.eu/wp-content/uploads/AbyssalAi-traditional_vs_deep-performance.png)
 
