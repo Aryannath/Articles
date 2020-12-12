@@ -103,7 +103,21 @@ GAN's are used to create new data using the data on which our model is trained. 
 
  
 
+#####  *Image Credits*  :
 
+-    https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbernardmarr%2Ffiles%2F2018%2F10%2FAdobeStock_179912599-1-1200x797.jpg
+- https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/05/AAEAAQAAAAAAAAhPAAAAJDlkMWMwNTA1LTZkZjUtNDA5MS1hYT.jpg
+- https://cdn.thenewstack.io/media/2020/05/6a5f470b-02.png
+- https://abyssal.eu/wp-content/uploads/AbyssalAi-traditional_vs_deep-performance.png
+- https://victorzhou.com/media/nn-series/network.svg
+- https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/1oB3S5yHHhvougJkPXuc8og.gif
+- https://miro.medium.com/max/1039/0/8AfmjQTGGEmEFxIa.png
+- https://miro.medium.com/max/785/030h4uFH8GxOT23fk.png
+- https://miro.medium.com/max/1091/0/wDTai055oQ7F0AoW.png
+
+
+
+​         
 
 
 
